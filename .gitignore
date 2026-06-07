@@ -1,0 +1,16 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pdf
+local_research_db/
+*.egg-info/
+dist/
+.DS_Store
+*.sqlite
+*.db
+*.db/
+*.lock
+.qdrant/
+*.qdrant
